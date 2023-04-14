@@ -1,0 +1,7 @@
+E:\SecondSemester\SignInwithLink\SignInwithLink\bin\Debug\SignInwithLink.exe.config
+E:\SecondSemester\SignInwithLink\SignInwithLink\bin\Debug\SignInwithLink.exe
+E:\SecondSemester\SignInwithLink\SignInwithLink\bin\Debug\SignInwithLink.pdb
+E:\SecondSemester\SignInwithLink\SignInwithLink\obj\Debug\SignInwithLink.csproj.AssemblyReference.cache
+E:\SecondSemester\SignInwithLink\SignInwithLink\obj\Debug\SignInwithLink.csproj.CoreCompileInputs.cache
+E:\SecondSemester\SignInwithLink\SignInwithLink\obj\Debug\SignInwithLink.exe
+E:\SecondSemester\SignInwithLink\SignInwithLink\obj\Debug\SignInwithLink.pdb
