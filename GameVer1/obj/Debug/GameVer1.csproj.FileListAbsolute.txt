@@ -1,0 +1,10 @@
+E:\SecondSemester\GameVer1\GameVer1\bin\Debug\GameVer1.exe.config
+E:\SecondSemester\GameVer1\GameVer1\bin\Debug\GameVer1.exe
+E:\SecondSemester\GameVer1\GameVer1\bin\Debug\GameVer1.pdb
+E:\SecondSemester\GameVer1\GameVer1\bin\Debug\EZInput.dll
+E:\SecondSemester\GameVer1\GameVer1\bin\Debug\EZInput.xml
+E:\SecondSemester\GameVer1\GameVer1\obj\Debug\GameVer1.csproj.AssemblyReference.cache
+E:\SecondSemester\GameVer1\GameVer1\obj\Debug\GameVer1.csproj.CoreCompileInputs.cache
+E:\SecondSemester\GameVer1\GameVer1\obj\Debug\GameVer1.csproj.CopyComplete
+E:\SecondSemester\GameVer1\GameVer1\obj\Debug\GameVer1.exe
+E:\SecondSemester\GameVer1\GameVer1\obj\Debug\GameVer1.pdb
